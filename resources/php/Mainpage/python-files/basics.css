@@ -1,0 +1,11 @@
+body {background-color:cyan;} 
+table {border:2px solid;padding :5px;background-color:gray} 
+th {border:1px solid blue;padding:8px;} 
+td {border:1px solid blue;padding:8px;} 
+tr {border:1px solid blue;padding:8px;} 
+ol {font-size:100%;list-style:lower-roman;} 
+span { background-color:maroon;font-size:120%;fontstyle:italic;color:white} 
+p {font-size:90%;} 
+td:hover{color:white;background-color:gray;} 
+tr:nth-child(even){background-color: #f2f2f2;} 
+table {width: 80%;text-align:center;font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;} 

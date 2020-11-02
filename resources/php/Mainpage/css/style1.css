@@ -1,0 +1,119 @@
+.btn-login
+    {
+        margin-left: 30%;
+        margin-top: 1%;
+    }
+    h3{
+        margin-left: 200px;
+        margin-top: 50px;
+    }
+    .graph{
+        width:1400px;
+        height:auto;
+        margin-top: 120px;
+        
+    }
+.graph-name
+{
+    margin-left: 700px;
+}
+.graph-1-2
+{
+    margin-left:400px;
+}
+    .image img{
+        height:500px;
+        width:800px;
+        padding-left: 50px;
+        margin-left: 350px;
+}
+.image
+{
+    margin-bottom: 50px;
+}
+body {
+  font-family: Arial;
+    background-color: #ebebeb;
+}
+.btn-content1
+{
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-left: 40%;
+}
+.btn-content
+    {
+        margin-left:50%;
+        margin-top:2%;
+    }
+.btn:link,
+.btn:visited
+{
+    display:inline-block;
+    width: 700px;
+    padding:10px 30px;
+    font-weight:300;
+    text-decoration:none;
+    border-radius:200px;
+    transition: background-color 0.2s, color 0.2s, border 0.2s;
+}
+.btn-full
+{
+    background-color:#e67e22;
+    border: 1px solid #e67e22;
+    color:#fff;
+    margin-right:20px;
+}
+    
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+ padding-bottom: 90px;
+    
+
+  clear: both;
+       
+  display: table;
+}
+.sect-head
+{
+    margin-left: 500px;
+    font-weight: 600;
+}
+.sect-head-1-2
+{
+    margin-left: 600px;
+    font-weight: 600;
+}
+.show-more
+{
+    margin-bottom: 50px;
+}

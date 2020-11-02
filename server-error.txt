@@ -1,0 +1,2 @@
+space between print() and import cgi,cgitb
+code must allign vertical when it is opened using the notepad
